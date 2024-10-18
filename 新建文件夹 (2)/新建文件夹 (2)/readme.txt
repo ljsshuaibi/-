@@ -1,0 +1,1 @@
+需要再redis中手动插入三个键值对 TotalPerson TotalProblem TotalAnswer 值都为0 默认db0数据库存放即可
